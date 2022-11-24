@@ -49,7 +49,7 @@ yarn build
 
 <br />
 
-### 🛠 Stack
+## 🛠 Stack
 Just starting out, so stack is very minimalist so far.
 
 Front: TypeScript
