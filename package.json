@@ -1,7 +1,7 @@
 {
-  "name": "to-do-app-vanilla-ts",
+  "name": "tasks-manager-vanilla-ts",
   "version": "1.0.0",
-  "description": "An simple to-do app in plain TypeScript.",
+  "description": "A simple tasks manager in plain TypeScript.",
   "main": "index.js",
   "author": "Claire Chabas",
   "license": "MIT",
