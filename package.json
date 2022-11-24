@@ -1,0 +1,18 @@
+{
+  "name": "to-do-app-vanilla-ts",
+  "version": "1.0.0",
+  "description": "An simple to-do app in plain TypeScript.",
+  "main": "index.js",
+  "author": "Claire Chabas",
+  "license": "MIT",
+  "scripts": {
+    "start": "lite-server",
+    "compile": "tsc -w"
+  },
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
